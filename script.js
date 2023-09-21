@@ -13,4 +13,6 @@ console.log(weather["current"]["temp_f"]);
 console.log(weather["current"]["temp_c"]);
 }
 
+//asdsadasd
+
 getWeather();
