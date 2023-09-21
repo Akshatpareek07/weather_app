@@ -12,5 +12,5 @@ console.log(weather["location"]["name"]);
 console.log(weather["current"]["temp_f"]);
 console.log(weather["current"]["temp_c"]);
 }
-//added
+//added to commit
 getWeather();
